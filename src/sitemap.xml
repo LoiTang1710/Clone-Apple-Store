@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Trang Chủ -->
+  <url>
+    <loc>https://ten-du-an-cua-ban.onrender.com/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Trang Cửa hàng -->
+  <url>
+    <loc>https://apple-store-vl9a.onrender.com/store.html</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Trang FAQ (Trang này rất quan trọng cho AEO) -->
+  <url>
+    <loc>https://apple-store-vl9a.onrender.com/FAQ</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
